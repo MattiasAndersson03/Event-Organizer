@@ -1,6 +1,6 @@
 # 🗓️ Event Organizer
 
-A C# (Windows Forms) project for creating and managing events and participants.
+A  simple C# (Windows Forms) project for creating and managing events and participants.
 
 ---
 
