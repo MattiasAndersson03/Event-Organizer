@@ -16,7 +16,7 @@ A  simple C# (Windows Forms) project for creating and managing events and partic
 
 ## 📁 Project Structure
 
-| File | Description |
+| Files | Description |
 |------|-------------|
 | `Program.cs` | Entry point of the application |
 | `Form1.cs` / `Form1.Designer.cs` | Main form and UI components |
